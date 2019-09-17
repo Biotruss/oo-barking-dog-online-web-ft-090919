@@ -1,1 +1,1 @@
-def name
+def name=(dog)
