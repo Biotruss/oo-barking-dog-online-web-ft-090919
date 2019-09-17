@@ -1,2 +1,4 @@
-def name=(dog)
-  @
+class Dog 
+  def name=(dog)
+    
+end
