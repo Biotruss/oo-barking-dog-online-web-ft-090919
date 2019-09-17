@@ -2,7 +2,9 @@ class Dog
   def name=(dog_name)
     @new_dog_name = dog_name
   end
-  def 
+  def name
+    
+  end
   def bark
     puts "woof!"
   end
